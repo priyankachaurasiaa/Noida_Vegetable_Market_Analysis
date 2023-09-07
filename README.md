@@ -79,7 +79,6 @@ We have created an interactive dashboard using Power BI to visualize the key fin
 
 The dashboard provides an easy-to-navigate interface for exploring the data, visualizing price trends, and understanding the impact on different income groups. We encourage you to explore the dashboard for a more interactive experience.
 
-![Uploading image.png…]()
 
 ## Conclusion
 
