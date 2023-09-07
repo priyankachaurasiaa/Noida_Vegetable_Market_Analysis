@@ -31,7 +31,8 @@ The purpose of this analysis is as follows:
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/bf776fbf-b578-45cd-9128-00b248daa055)
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/bfb6173f-95e2-4e66-8697-7d9e116bc2e4)
 
-![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/79db3af2-254f-4016-92b0-35b575bba5ae)
+![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/8ae7e586-8277-4075-8914-0ff88e7b0cfb)
+
 
 5. Vegetable Basket Analysis: Calculate the total cost of a vegetable basket for low-income, middle-income, and high-income groups, containing at least 2 seasonal vegetables, 1 non-seasonal vegetable, some potato, some onion, and others.
 
