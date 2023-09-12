@@ -2,7 +2,9 @@
 
 ## Project Description
 
-The aim of this data analysis project is to analyze the vegetable prices in the Noida Vegetable Market and nearby located vegetable markets. The project seeks to identify variations in vegetable prices, understand seasonal vegetables, and determine the total cost of a vegetable basket for different income groups. Additionally, the project aims to analyze the changes in vegetable basket prices over time and calculate the inflation rate for each income group.
+- The aim of this data analysis project is to analyze the vegetable prices in the Noida Vegetable Market and nearby located vegetable markets. 
+- The project seeks to identify variations in vegetable prices, understand seasonal vegetables, and determine the total cost of a vegetable basket for different income groups. 
+- Additionally, the project aims to analyze the changes in vegetable basket prices over time and calculate the inflation rate for each income group.
 
 ## Introduction
 
@@ -51,13 +53,19 @@ During the course of this project, we faced several challenges:
 
 We have created an interactive dashboard using Power BI to visualize the key findings and insights from our analysis. You can access the dashboard by following this link: [Power BI Dashboard](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/blob/main/Pandas_Dashboard.pbix).
 
-<img width="591" alt="image" src="https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/bfc5bf69-6614-424e-806b-5cba28ae0e6a">
+<img width="792" alt="image" src="https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/4b6bd0db-e0aa-49e4-b528-3f073a937304">
 
 The dashboard provides an easy-to-navigate interface for exploring the data, visualizing price trends, and understanding the impact on different income groups. We encourage you to explore the dashboard for a more interactive experience.
 
 ## Conclusion
 
-After analyzing the data on vegetable prices in Noida and nearby markets, significant variations in the prices of seasonal and non-seasonal vegetables were observed. These variations could be attributed to factors such as transportation costs, supply and demand dynamics, and government policies. Families in the low-income group were found to be more affected by price increases, with an average inflation rate of 5% over the study period.
+- Examination of vegetable price data in Noida and neighboring markets revealed substantial price fluctuations for both seasonal and non-seasonal vegetables.
+
+- These price fluctuations can be linked to factors including transportation expenses, supply and demand fluctuations, and government regulations.
+
+- Notably, low-income households experienced a more pronounced impact, with an average inflation rate of 5% recorded during the study duration.
+
+- Overall, this analysis highlights the complexity of vegetable pricing dynamics and underscores the need for targeted policies to mitigate the financial burden on vulnerable households.
 
 ## Contact Information
 
