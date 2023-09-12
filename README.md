@@ -1,5 +1,5 @@
 # Noida_Vegetable_Market_Analysis
-![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/bf97099b-8194-4b0d-868a-bcd9655d5385)
+![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/39f36a6a-0825-4343-8c66-3783b5786e3b)
 
 ## Project Description
 
@@ -13,28 +13,46 @@ This project aims to analyze the trends and patterns of the Noida vegetable mark
 
 ## Data Analysis Steps
 
-1. **Data Extraction**: The data was obtained by requesting the API for Noida Vegetable Market data. 100% of the data was successfully extracted from the specified URL within the date range.
+1. **Data Extraction:**
+- Description: The data was collected by making requests to an API that provides information about vegetable prices in the Noida Vegetable Market.
+- Process: All available data within the specified date range was successfully retrieved from the provided API.
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/0898d9d6-f961-4435-b141-c33e2b96def5)
 
-2. **Average Monthly Price Analysis**: Average monthly prices for each vegetable were calculated between 15th November 2021 and 31st March 2023.
+4. **Average Monthly Price Analysis:**
+- Description: The data was collected by making requests to an API that provides information about vegetable prices in the Noida Vegetable Market.
+- Process: All available data within the specified date range was successfully retrieved from the provided API.
 
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/fc2bd290-fb21-4037-964c-1ff8c957dd69)
 
-3. **Price Comparison Analysis**: Variations and similarities in vegetable prices between Noida Vegetable Market and nearby markets were identified and analyzed.
+3. **Price Comparison Analysis:**
+- Description: The data was collected by making requests to an API that provides information about vegetable prices in the Noida Vegetable Market.
+- Process: All available data within the specified date range was successfully retrieved from the provided API.
+
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/70593c9f-63d2-4899-88a4-6fdf7014c141)
 
-4. **Seasonal Vegetables Analysis**: Seasonal vegetables were identified based on their prices.
+5. **Seasonal Vegetables Analysis:**
+- Description: The data was collected by making requests to an API that provides information about vegetable prices in the Noida Vegetable Market.
+- Process: All available data within the specified date range was successfully retrieved from the provided API.
+
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/df8c4bc3-e532-4d1e-8104-bd5ce468b93b) ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/68646f96-1fa5-4e14-8c90-268a374f46aa)
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/bf776fbf-b578-45cd-9128-00b248daa055) ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/bfb6173f-95e2-4e66-8697-7d9e116bc2e4)
 
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/8ae7e586-8277-4075-8914-0ff88e7b0cfb)
 
-5. **Vegetable Basket Analysis**: The total cost of vegetable baskets for different income groups was calculated.
+5. **Vegetable Basket Analysis:** 
+- Description: This analysis calculates the total cost of a typical basket of vegetables for different income groups.
+- Process: The project determines the combined cost of a selection of vegetables for various income groups.
+
 ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/6fd2e757-ead5-425f-ad7a-a6fbb02ce4f8)
 
-6. **Price Trend Analysis**: Analyze the impact of vegetable price changes on different income groups, including lower-income, middle-income, and higher-income groups.
+6. **Price Trend Analysis:**
+- Description: This analysis calculates the total cost of a typical basket of vegetables for different income groups.
+- Process: The project determines the combined cost of a selection of vegetables for various income groups.
 
-7. **Inflation Rate Calculation**: Inflation rates were calculated based on the prices of the vegetable basket.
+7. **Inflation Rate Calculation:**
+- Description: This analysis calculates the total cost of a typical basket of vegetables for different income groups.
+- Process: The project determines the combined cost of a selection of vegetables for various income groups.
+
    ![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/7eb1c380-e4d6-4019-a346-239f5aeb383a)
 
 ## Challenges
