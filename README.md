@@ -1,4 +1,5 @@
 # Noida_Vegetable_Market_Analysis
+![image](https://github.com/priyankachaurasiaa/Noida_Vegetable_Market_Analysis/assets/134799886/bf97099b-8194-4b0d-868a-bcd9655d5385)
 
 ## Project Description
 
