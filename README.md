@@ -46,7 +46,6 @@ During the course of this project, we faced several challenges:
 
 4. **Inflation Calculation**: Calculating inflation rates for different income groups based on vegetable basket prices required specialized calculations and assumptions.
 
-Despite these challenges, we successfully addressed them by implementing rigorous data cleaning procedures, consulting domain experts, and conducting thorough analyses.
 
 ## Dashboard
 
@@ -56,11 +55,10 @@ We have created an interactive dashboard using Power BI to visualize the key fin
 
 The dashboard provides an easy-to-navigate interface for exploring the data, visualizing price trends, and understanding the impact on different income groups. We encourage you to explore the dashboard for a more interactive experience.
 
-
 ## Conclusion
 
 After analyzing the data on vegetable prices in Noida and nearby markets, significant variations in the prices of seasonal and non-seasonal vegetables were observed. These variations could be attributed to factors such as transportation costs, supply and demand dynamics, and government policies. Families in the low-income group were found to be more affected by price increases, with an average inflation rate of 5% over the study period.
 
 ## Contact Information
 
-For inquiries or further information, please contact Priyanka_Chaurasia at priyankachaurasia7050@gmail.com
+For inquiries or further information, please contact Priyanka_Kumari_Chaurasia at priyankachaurasia7050@gmail.com
