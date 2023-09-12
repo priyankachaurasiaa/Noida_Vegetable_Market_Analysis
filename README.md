@@ -6,7 +6,7 @@ The aim of this data analysis project is to analyze the vegetable prices in the 
 
 ## Introduction
 
-This project aims to analyze the trends and patterns of the Noida vegetable market, identify the key factors that affect the pricing of vegetables, and provide recommendations for improving the efficiency and sustainability of the market. The data for this analysis was primarily collected from the link (API) provided by Masai School.
+This project aims to analyze the trends and patterns of the Noida vegetable market, identify the key factors that affect the pricing of vegetables, and provide recommendations for improving the efficiency and sustainability of the market. The data for this analysis was primarily collected from the link (API) provided by Masai.
 
 ## Data Analysis Steps
 
